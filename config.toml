@@ -1,5 +1,5 @@
 # default config
-baseurl = "http://localhost"
+baseurl = "https://LegendaryStaffel.github.io/war"
 languageCode = "ru-RU"
 title = "Хронология ВОВ 1941-45"
 theme = "parsa-hugo"
