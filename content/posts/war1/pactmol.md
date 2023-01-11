@@ -3,7 +3,7 @@ title: "Пакт Молотова-Риббентропа"
 date: 2022-12-28T13:47:25+03:00
 description: "This is meta description"
 type: "post"
-image: "images/masonary-post/post-2.jpg"
+image: "images/red_star.jpg"
 categories:
   - "Перед войной"
 tags:
