@@ -24,7 +24,7 @@ weight: 3
 
 * [Курская битва](../../posts/war3/kurskbat)
 
-*[Смоленская операция](../../posts/war3/smollenbattle)
+* [Смоленская операция](../../posts/war3/smollenbattle)
 
 
 ![](../images/post-img.jpg)
