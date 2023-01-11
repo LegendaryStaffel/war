@@ -28,7 +28,21 @@ weight: 2
 
 * [Блокада Ленинграда](../../posts/war2/lenablock)
 
+* [Сталинградская Битва](../../posts/war2/batstalin)
 
+* [Ельнинская операция](../../posts/war2/elop)
+
+* [Киевская операция](../../posts/war2/kievop)
+
+* [Донбасско - ростовская оборонительная операция](../../posts/war2/donbrostop)
+
+* [Крымско оборонительная операция](../../war/posts/war2/crymop)
+
+* [План Блау](../../posts/war2/planblau)
+
+* [Воронежско-Ворошиловградская операция](../../posts/war2/vorovoroop)
+
+* [Битва за Кавказ](../../posts/war2/kavkazbat)
 
 ![](../images/post-img.jpg)
 
