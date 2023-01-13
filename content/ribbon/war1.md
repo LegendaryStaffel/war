@@ -24,6 +24,7 @@ weight: 1
 * [Берлинский пакт 1940 года](../../posts/war1/berpact)
 * [План Барбаросса](../../posts/war1/barbarossa)
 * [Советско-финская война](../../posts/war1/frw)
+* [Последний мирный день перед вторжением](../../posts/war1/beforewar)
 
 
 ![](../images/post-img.jpg)

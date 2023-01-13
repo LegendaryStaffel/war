@@ -26,6 +26,14 @@ weight: 3
 
 * [Смоленская операция](../../posts/war3/smollenbattle)
 
+* [Донбасская операция](../../posts/war3/dombassbat)
+
+* [Новороссийско-Таманская операция](../../posts/war3/novortamop)
+
+* [Мелитопольская операция](../../posts/war3/melitopov)
+
+* [Керченско-Эльтигенская десантная операция](../../posts/war3/kercheltengop)
+
 
 ![](../images/post-img.jpg)
 
