@@ -3,7 +3,7 @@ title: "Смоленское сражение"
 date: 2022-12-28T13:47:25+03:00
 description: "This is meta description"
 type: "post"
-image: "images/red_star.jpg"
+image: "images/war2/smol1.jpg"
 categories:
   - "Начальный этап"
 tags:
@@ -28,3 +28,4 @@ tags:
 
 
 
+![](../../../images/war2/smol2.jpg)

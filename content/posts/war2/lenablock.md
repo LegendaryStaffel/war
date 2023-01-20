@@ -3,7 +3,7 @@ title: "Блокада Ленинграда"
 date: 2022-12-28T13:47:25+03:00
 description: "This is meta description"
 type: "post"
-image: "images/red_star.jpg"
+image: "images/war2/blocada1.jpg"
 categories:
   - "Начальный этап"
 tags:
@@ -33,3 +33,13 @@ tags:
 Летом 1942 года по дну озера был проложен Ладожский трубопровод для снабжения Ленинграда горючим, а осенью – энергетический кабель.
 
 Но к сожаленю конец блокады был еще не близко...
+
+
+
+![](../../../images/war2/blocada2.jpg)
+
+
+
+
+
+

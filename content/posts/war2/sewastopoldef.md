@@ -3,7 +3,7 @@ title: "Оборона Севастополя"
 date: 2022-12-28T13:47:25+03:00
 description: "This is meta description"
 type: "post"
-image: "images/red_star.jpg"
+image: "images/war2/sewastopol1.jpg"
 categories:
   - "Начальный этап"
 tags:
@@ -32,4 +32,4 @@ tags:
 В борьбе за город противник потерял около 300 тысяч человек убитыми и ранеными. Севастопольская оборона войдет в историю как пример массового героизма. Более 30 человек будут удостоены звания Героя Советского Союза.
 
 
-
+![](../../../images/war2/sewastopol2.jpg)

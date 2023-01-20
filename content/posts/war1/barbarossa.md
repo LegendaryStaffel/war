@@ -1,9 +1,9 @@
 ---
 title: "План Барбаросса"
 date: 2022-12-28T13:47:25+03:00
-description: "This is meta description"
+description: "План Барбаросса"
 type: "post"
-image: "images/red_star.jpg"
+image: "images/war1/barbarossa1.jpg"
 categories:
   - "Перед войной"
 tags:
