@@ -1,9 +1,9 @@
 ---
 title: "Мелитопольская операция"
 date: 2022-12-28T13:47:25+03:00
-description: "This is meta description"
+description: "Мелитопольская операция"
 type: "post"
-image: "images/red_star.jpg"
+image: "images/war3/melitop1.jpg"
 categories:
   - "Коренной перелом"
 tags:

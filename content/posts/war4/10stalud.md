@@ -1,9 +1,9 @@
 ---
 title: "10 сталинских ударов"
 date: 2022-12-28T13:47:25+03:00
-description: "This is meta description"
+description: "10 сталинских ударов"
 type: "post"
-image: "images/red_star.jpg"
+image: "images/war4/10stalin1.jpg"
 categories:
   - "Заключительный этап"
 tags:

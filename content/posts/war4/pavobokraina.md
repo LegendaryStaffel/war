@@ -1,9 +1,9 @@
 ---
 title: "Наступление на правобережную Украину"
 date: 2022-12-28T13:47:25+03:00
-description: "This is meta description"
+description: "Наступление на правобережную Украину"
 type: "post"
-image: "images/red_star.jpg"
+image: "images/war4/nastpravuk1.jpg"
 categories:
   - "Заключительный этап"
 tags:
