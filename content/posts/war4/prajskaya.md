@@ -3,7 +3,7 @@ title: "Пражская наступительная операция"
 date: 2022-12-28T13:47:25+03:00
 description: "This is meta description"
 type: "post"
-image: "images/red_star.jpg"
+image: "images/war4/praga1.jpg"
 categories:
   - "Заключительный этап"
 tags:

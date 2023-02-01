@@ -1,9 +1,9 @@
 ---
 title: "Восточно-Прусская операция"
 date: 2022-12-28T13:47:25+03:00
-description: "This is meta description"
+description: "Воссточно-Прусская операция"
 type: "post"
-image: "images/red_star.jpg"
+image: "images/war4/vostokpruss1.jpg"
 categories:
   - "Заключительный этап"
 tags:
